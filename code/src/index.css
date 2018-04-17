@@ -1,5 +1,26 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+	color: black;
+	background-color: #fbfbfb;
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+h1 {
+	color: #74cace;
+	font-size: 60px;
+	text-shadow: 3px 3px 6px #000000;
+}
+
+label {
+	font-size: 18px;
+	display: block;
+	margin: 1px;
+}
+
+.calculator-img {
+	width: 240px;
+	height: 200px;
+	margin-top: 19px;
 }
